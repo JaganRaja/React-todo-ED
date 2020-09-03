@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+1.local storage 2.filter the todo list(all, completed, uncompleted) using change of state 3.add the todos 4.delete the todos 5.change the style(CSS) using change of state 6.Without using Redux(passing all STATE values through Props)
+
 ## Available Scripts
 
 In the project directory, you can run:
